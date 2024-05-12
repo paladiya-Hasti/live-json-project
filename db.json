@@ -1,0 +1,93 @@
+{
+  "pass": [
+    {
+      "id": "1e3a",
+      "user": "hasti",
+      "password": "12345",
+      "email": "hasti@gmail.com"
+    }
+  ],
+  "product": [
+    {
+      "id": "0092",
+      "title": "sdfg",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp15SIe8Tur1t1LHSbQ1JrvZDi6IAYtwAZPg&s",
+      "price": "34",
+      "cate": "rosegold watch"
+    },
+    {
+      "id": "8c76",
+      "title": "dfgh",
+      "img": "https://www.firstclasswatches.co.uk/blog/wp-content/uploads/2019/10/marek-prygiel-kKgEpUTfH5Y-unsplash.jpg",
+      "price": "456",
+      "cate": "silver watch"
+    },
+    {
+      "id": "4fb9",
+      "title": "qwer",
+      "img": "https://avatars.mds.yandex.net/i?id=b51098ecbb6e80e0197b231b0363ddadd9384570-8348537-images-thumbs&ref=rim&n=33&w=200&h=200",
+      "price": "456",
+      "cate": "leather blet watch"
+    },
+    {
+      "id": "4479",
+      "title": "awert",
+      "img": "https://avatars.mds.yandex.net/i?id=14090f675240fadac83c9835652843fab76a4df8-10499998-images-thumbs&n=13",
+      "price": "234",
+      "cate": "smart watch"
+    },
+    {
+      "id": "c2c6",
+      "title": "qwer",
+      "img": "https://avatars.mds.yandex.net/i?id=6d21f3cbf5bba50f12f6add03fefbfeff0b7d5dd-7664017-images-thumbs&ref=rim&n=33&w=200&h=200",
+      "price": "234",
+      "cate": "silver watch"
+    },
+    {
+      "id": "2672",
+      "title": "qwe",
+      "img": "https://avatars.mds.yandex.net/i?id=bc14c58a14a2a416ac3123bffedf1a8912b947d4-8249876-images-thumbs&ref=rim&n=33&w=200&h=200",
+      "price": "1234",
+      "cate": "smart watch"
+    },
+    {
+      "id": "972c",
+      "title": "smart",
+      "img": "https://avatars.mds.yandex.net/i?id=f661296df97118cc7bceaa03b08fc181fd7b8fcf-11501519-images-thumbs&n=13",
+      "price": "24344",
+      "cate": "smart watch"
+    },
+    {
+      "id": "c60c",
+      "title": "asdf",
+      "img": "https://avatars.mds.yandex.net/i?id=956207ddc1095e5adb5905ba2c7cdc61559e6ec2-9096591-images-thumbs&n=13",
+      "price": "1234567",
+      "cate": "silver watch"
+    },
+    {
+      "id": "f7d3",
+      "title": "",
+      "img": "",
+      "price": "",
+      "cate": "WATCH"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0092",
+      "title": "sdfg",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp15SIe8Tur1t1LHSbQ1JrvZDi6IAYtwAZPg&s",
+      "price": "34",
+      "cate": "rosegold watch",
+      "qty": 6
+    },
+    {
+      "id": "4479",
+      "title": "awert",
+      "img": "https://avatars.mds.yandex.net/i?id=14090f675240fadac83c9835652843fab76a4df8-10499998-images-thumbs&n=13",
+      "price": "234",
+      "cate": "smart watch",
+      "qty": 2
+    }
+  ]
+}
